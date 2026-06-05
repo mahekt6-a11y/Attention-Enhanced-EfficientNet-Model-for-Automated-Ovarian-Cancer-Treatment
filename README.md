@@ -1,0 +1,2 @@
+# Attention-Enhanced-EfficientNet-Model-for-Automated-Ovarian-Cancer-Treatment
+This project develops an automated ovarian cancer classification system using the EfficientNet deep learning model. Histopathological images are analyzed to identify ovarian cancer classes. Transfer learning, data augmentation, and image preprocessing improve accuracy, while explainable AI techniques help interpret predictions and support diagnosis
